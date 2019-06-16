@@ -4,5 +4,6 @@ kheer
 pastha
 chiken fry
 
-
+beans
+pizza
 thnk you
