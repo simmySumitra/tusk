@@ -7,3 +7,5 @@ chiken fry
 beans
 pizza
 thnk you
+
+done my changes
